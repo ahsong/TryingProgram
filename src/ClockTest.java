@@ -9,6 +9,7 @@ public class ClockTest extends JFrame {
     ClockLabel clock = new ClockLabel( );
     getContentPane( ).add(clock, BorderLayout.NORTH);
   }
+  //i am trying
  
   public static void main(String args[]) {
     ClockTest ct = new ClockTest( );
